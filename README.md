@@ -23,7 +23,7 @@
 
 ![Bootstrap Icons full set](https://user-images.githubusercontent.com/98681/82475151-e95e8a80-9a80-11ea-8e35-923ac6fa557b.png)
 
-[Also available in Figma.](https://www.figma.com/file/XDj1VewxEtXzkDDMAvWx2W/Bootstrap-Icons-v1.0.0-alpha4)
+[Also available in Figma.](https://www.figma.com/file/hTJtQ2MrMTeNVmYrVBqNZZ/Bootstrap-Icons-v1.0.0-alpha5?node-id=0%3A1)
 
 ## Install
 
